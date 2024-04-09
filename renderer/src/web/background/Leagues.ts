@@ -56,8 +56,7 @@ export const useLeagues = createGlobalState(() => {
       tradeLeagues.value = leagues
         .filter(league =>
           !PERMANENT_HC.includes(league.id) &&
-          !league.rules.some(rule => rule.id === 'NoParties' ||
-            (rule.id === 'HardMode' && !league.event)))
+          !league.rules.some(rule => rule.id === 'NoParties' || league.event))
         .map(league => {
           return { id: league.id, isPopular: true }
         })
