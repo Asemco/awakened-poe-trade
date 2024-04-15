@@ -183,9 +183,11 @@
     "listed_1month": "한달 전",
     "listed_2months": "두달 전",
     "currency_any": "아무 화폐",
+    "currency_only_alch": "연금술의 오브",
     "currency_only_chaos": "카오스 오브",
     "currency_only_div": "디바인 오브",
-    "currency_chaos_div": "카오스&디바인"
+    "currency_chaos_div": "카오스&디바인",
+    "currency_alch_chaos": "카오스&디바인 (R)"
   },
   "widget": {
     "title": "위젯 이름",

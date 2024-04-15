@@ -23,6 +23,7 @@
   },
 
   "map.mods.heist": "heist",
+  "map.mods.uber": "T17",
   "map.mods.outdated": "outdated",
   "Support development on": "Support development\u00A0on",
 
@@ -185,9 +186,11 @@
     "listed_1month": "1 Month Ago",
     "listed_2months": "2 Months Ago",
     "currency_any": "Any Currency",
+    "currency_only_alch": "Alchemy Orb",
     "currency_only_chaos": "Chaos Orb",
     "currency_only_div": "Divine Orb",
-    "currency_chaos_div": "Both Orbs"
+    "currency_chaos_div": "Both Orbs",
+    "currency_alch_chaos": "Both Orbs (R)"
   },
   "widget": {
     "title": "widget title",

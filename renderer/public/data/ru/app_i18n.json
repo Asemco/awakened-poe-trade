@@ -201,9 +201,11 @@
     "listed_1month": "До 1-го месяца",
     "listed_2months": "До 2-х месяцев",
     "currency_any": "Любая валюта",
+    "currency_only_alch": "сфера алхимии",
     "currency_only_chaos": "Сфера хаоса",
     "currency_only_div": "Божествен. сфера",
-    "currency_chaos_div": "Обе сферы"
+    "currency_chaos_div": "Обе сферы",
+    "currency_alch_chaos": "Обе сферы (R)"
   },
   "widget": {
     "title": "заголовок виджета",
